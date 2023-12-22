@@ -23,7 +23,7 @@ import HelloWorld from './components/HelloWorld.vue'
 for (let i = 0; i < 100; i++) {
   console.log(i)
 }
-let str = '我是祖国的花朵1'
+let str = '我是祖国的花朵13'
 </script>
 <style scoped>
 header {
