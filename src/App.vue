@@ -19,12 +19,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
   <RouterView />
 </template>
-<script setup lang="ts">
-for (let i = 0; i < 100; i++) {
-  console.log(i)
-}
-let str = '我是祖国的花朵13'
-</script>
+
 <style scoped>
 header {
   line-height: 1.5;
